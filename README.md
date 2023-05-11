@@ -44,5 +44,5 @@ terms of graphics processing.
 
 Click on the link below for a more detailed explanation of the results: https://silent-rose-d11.notion.site/README-732512e96fc74555954951bbe316041a
 
-
+Click on the link below to see a more detailed explanation of the results and a line-by-line explanation of the codes: https://file.notion.so/f/s/ec4615b3-fb7d-4d43-9fea-89766b1d9054/rapor.pdf?id=3bdd5703-79ed-4f84-8203-52c10686ff08&table=block&spaceId=b9204ee0-7f82-441b-8eb8-1970c325e382&expirationTimestamp=1683852729581&signature=rlWmPHGnf7rQZIuXUvaHQ0WhuWlV-f8oGsIkgvMwWmw&downloadName=rapor.pdf
 
